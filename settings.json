@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thisisaserverip.aternos.me",
+    "ip": "thisisaserverip.aternos.me:18619",
     "port": 18619,
     "version": "",
     "try-creative": false
