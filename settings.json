@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mantaray.aternos.host",
+    "ip": "thisisaserverip.aternos.me",
     "port": 18619,
     "version": "",
     "try-creative": false
