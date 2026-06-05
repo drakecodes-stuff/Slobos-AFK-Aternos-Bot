@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "DrakesSlave",
     "password": "",
     "type": "offline"
   },
@@ -31,10 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
+        "Tung Tung Sahur",
+        "Drake Is The Goat",
+        "I am definitely not a bot!"
+          ]
     },
     "chat-log": true,
     "auto-reconnect": true,
